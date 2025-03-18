@@ -39,7 +39,7 @@ const paginateData = async (newPageVal) => {
     
  <span v-else class="shadow-md px-2 py-2 rounded-md mt-20 text-gray-900 border font-semibold text-center">No data found
       <br>
-      Check your internet connection
+      Check your internet connection123
     </span>
    
 
