@@ -1,0 +1,1 @@
+import{c as s,o as a,a as o}from"./BArHBqSu.js";const t={class:"h-screen bg-slate-100"},l={__name:"dashboard",setup(r){return(n,e)=>(a(),s("div",t,e[0]||(e[0]=[o("h1",null,"Dashboard",-1)])))}};export{l as default};

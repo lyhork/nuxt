@@ -1,0 +1,1 @@
+import{c as a,o,t as n,_ as r,a as c,b as _}from"./BArHBqSu.js";const l={__name:"AboutDetail",props:["message"],setup(t){return(e,s)=>(o(),a("div",null,n(t.message),1))}},u={};function i(t,e){const s=l;return o(),a("div",null,[e[0]||(e[0]=c("h1",null,"About",-1)),_(s,{message:"this is about detail"})])}const p=r(u,[["render",i]]);export{p as default};

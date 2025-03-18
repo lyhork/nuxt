@@ -1,0 +1,1 @@
+function e(){try{const o=localStorage.getItem("userData");if(typeof o!="object"){const t=JSON.parse(o);return{user:t==null?void 0:t.user,token:t==null?void 0:t.token}}}catch(o){console.log(o)}}export{e as g};
